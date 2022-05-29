@@ -108,7 +108,7 @@ function Blob() {
           <text id="title"  x="50%" y="50%" dominantBaseline="middle" textAnchor="middle" fontFamily='LeagueSpartan'>
               Rob Kmetz
           </text>
-          <text x="50%" y="55%" dominantBaseline="middle" textAnchor="middle" fontFamily='LeagueSpartan' font-size=".5em">
+          <text x="50%" y="55%" dominantBaseline="middle" textAnchor="middle" fontFamily='LeagueSpartan' fontSize=".5em">
               Frontend Developer
           </text>
         </svg>
