@@ -1,6 +1,6 @@
 {
   "name": "robsite",
-  "homepage": "/index.js",
+  "homepage": "./src/index.js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
